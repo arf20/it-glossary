@@ -318,6 +318,7 @@
 - UEFI: Unified EFI.
 - UFS: Unix File System.
 - URI: Uniform Resource Identifier.
+- UART: Universal Asynchronous Receiver-Transmitter.
 - URL: Uniform Resource Locator.
 - USB: Universal Serial Bus.
 - UUID: Universally Unique Identifier.
