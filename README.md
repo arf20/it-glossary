@@ -319,6 +319,7 @@
 ### V
 
 - VDI: Virtual Disk Image.
+- VGA: Video Graphics Array.
 - VHDL: VHSIC Hardware Description Language.
 - VHSIC: Very High Speed Integrated Circuit Program.
 - VLSI: Very Large Scale Integration.
