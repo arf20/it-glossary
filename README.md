@@ -155,6 +155,7 @@
 - HDD: Hard Disk Drive.
 - HDL: Hardware Description Language.
 - HKEY: Handle to Registry-Key.
+- HLS: HTTP Live Streaming
 - HSRP: Hot Standby Router Protocol.
 - HTTP: Hyper-Text Transfer Protocol.
 
