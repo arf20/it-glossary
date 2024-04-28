@@ -176,6 +176,7 @@
 - IETF: Internet Engineering Task Force.
 - IGMP: Internet Group Management Protocol.
 - IHL: Internet Header Length.
+- IMAP: Internet Message Access Protocol.
 - IOPS: Input/Output Operations Per Second.
 - IoT: Internet of Things.
 - IP: Internet Protocol.
