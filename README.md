@@ -294,6 +294,7 @@
 - SIMT: Single Instruction, Multiple Threads.
 - SIP: Session Initiation Protocol.
 - SLAAC: Stateless Address Autoconfiguration.
+- SMTP: Simple Mail Transfer Protocol.
 - SNMP: Simple Network Management Protocol.
 - SOC: Security Operations Center.
 - SQL: Structured Query Language.
