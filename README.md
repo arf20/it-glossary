@@ -162,6 +162,7 @@
 - HKEY: Handle to Registry-Key.
 - HLS: HTTP Live Streaming
 - HSRP: Hot Standby Router Protocol.
+- HTML: HyperText Markup Language.
 - HTTP: Hyper-Text Transfer Protocol.
 
 ### I
