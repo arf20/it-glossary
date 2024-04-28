@@ -104,6 +104,7 @@
 - DN: Distinguished Name.
 - DNS: Domain Name System.
 - DoS: Denial of Service.
+- DRM: Digital Rights Management.
 - DRS: Distributed Resource Scheduler.
 - DSCP: Differentiated Services Codepoint.
 - DVI: Digital Visual Interface.
