@@ -192,6 +192,7 @@
 - LLM: Large Language Model.
 - LUKS: Linux Unified Key Setup.
 - LUN: Logical Unit Number.
+- LUT: LookUp Table.
 
 ### M
 
