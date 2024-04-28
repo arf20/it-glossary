@@ -108,6 +108,7 @@
 - DRM: Digital Rights Management.
 - DRS: Distributed Resource Scheduler.
 - DSCP: Differentiated Services Codepoint.
+- DVD: Digital Video Disc.
 - DVI: Digital Visual Interface.
 - DWDM: Dense Wavelength Division Multiplexing.
 
