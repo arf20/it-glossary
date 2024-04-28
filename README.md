@@ -106,6 +106,7 @@
 - DoS: Denial of Service.
 - DRS: Distributed Resource Scheduler.
 - DSCP: Differentiated Services Codepoint.
+- DVI: Digital Visual Interface.
 - DWDM: Dense Wavelength Division Multiplexing.
 
 ### E
