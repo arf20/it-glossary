@@ -224,6 +224,7 @@
 - NFS: Network File System.
 - NFV: Network Function Virtualization.
 - NLP: Natural Language Processing.
+- NNTP: Network News Transfer Protocol.
 - NPS: Network Policy Server.
 - NPU: Neural Processing Unit.
 - NSE: Nmap Scripting Engine.
