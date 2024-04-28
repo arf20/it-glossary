@@ -319,6 +319,7 @@
 - UFS: Unix File System.
 - URI: Uniform Resource Identifier.
 - URL: Uniform Resource Locator.
+- USB: Universal Serial Bus.
 - UUID: Universally Unique Identifier.
 
 ### V
