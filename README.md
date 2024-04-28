@@ -154,6 +154,7 @@
 - HA: High Availability.
 - HDD: Hard Disk Drive.
 - HDL: Hardware Description Language.
+- HDMI: High-Definition Multimedia Interface.
 - HKEY: Handle to Registry-Key.
 - HLS: HTTP Live Streaming
 - HSRP: Hot Standby Router Protocol.
