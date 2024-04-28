@@ -75,6 +75,7 @@
 ### C
 
 - CBAC: Context-Based Access Control.
+- CD: Compact Disk.
 - CDP: Cisco Discovery Protocol.
 - CERT: Computer Emergency Response Team.
 - CGNAT: Carrier Grade NAT.
