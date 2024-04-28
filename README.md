@@ -253,6 +253,7 @@
 - PKI: Public Key Infrastructure.
 - PLC: Programmable Logic Controller.
 - PNG: Portable Network Graphics.
+- POP3: Post Office Protocol 3.
 - PPPoE: Point to Point Protocol over Ethernet.
 - PROM: Programmable ROM.
 
