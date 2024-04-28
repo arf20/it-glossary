@@ -331,6 +331,7 @@
 - VHSIC: Very High Speed Integrated Circuit Program.
 - VLSI: Very Large Scale Integration.
 - VLSM: Variable-Length Subnet Masking.
+- VMS: Virtual Memory System.
 - VNC: Virtual Network Computing.
 - VRRP: Virtual Router Redundancy Protocol.
 - VT: Virtualization Technology.
